@@ -1,60 +1,64 @@
 # 2025 Robotics & IoT Projects Collection
 
+> **🗃️ Archive Notice**: This repository serves as an archive of the original project collection. All projects have been moved to individual repositories for better organization and development. See the links in the Project Portfolio section below.
+
 ## Overview
 A comprehensive collection of Arduino and ESP32-based projects developed in 2025, featuring innovative IoT solutions for automation, monitoring, and control systems. Each project demonstrates practical applications of embedded systems, wireless communication, and sensor integration.
 
 ## Project Portfolio
 
-### 🏢 [Equipment Booking System](./EquipmentBooking/)
+> **📢 Individual Repositories Available**: Each project has been moved to its own dedicated repository for better organization and independent development. Click the links below to access the individual repositories.
+
+### 🏢 [Equipment Booking System](https://github.com/MarLuar/equipment-booking-system)
 **RFID-based automated equipment management with Google Sheets integration**
 - Dual RFID authentication system
 - Smart locker control with ultrasonic sensors
 - Real-time booking tracking and authorization
 - WiFi connectivity for remote monitoring
 
-### 🚿 [Restroom Hygiene Keeper](./RestroomHygieneKeeper/) 
+### 🚿 [Restroom Hygiene Keeper](https://github.com/MarLuar/restroom-hygiene-keeper) 
 **Automated restroom hygiene management with UV sterilization**
 - Scheduled UV light disinfection cycles
 - Automated chemical dispensing system
 - Smart air circulation and fragrance control
 - Real-time clock scheduling with manual overrides
 
-### 🏥 [Patient Monitoring System](./PatientMonitoringSystem/)
+### 🏥 [Patient Monitoring System](https://github.com/MarLuar/patient-monitoring-system)
 **Wireless vital signs monitoring with ESP-NOW communication**
 - Heart rate and SpO2 measurement
 - Non-contact temperature sensing
 - ECG monitoring capabilities
 - Multi-patient nurse station receiver
 
-### ⚽ [IoT Scoreboard with Record Keeping](./IoTScoreBoardWithRecordKeeping/)
+### ⚽ [IoT Scoreboard with Record Keeping](https://github.com/MarLuar/iot-scoreboard)
 **Multi-zone LED display scoreboard with cloud connectivity**
 - 24 LED matrix modules in 6 zones
 - Blynk mobile app integration
 - Local file storage with SPIFFS
 - Game statistics and history tracking
 
-### 🌾 [Automated Scarecrow System](./SCARECROWWWWWWWWWWWW/)
+### 🌾 [Automated Scarecrow System](https://github.com/MarLuar/automated-scarecrow)
 **Motion-activated agricultural pest deterrent**
 - PIR sensor motion detection
 - Dual motor mechanical animation
 - Smart timing and re-triggering logic
 - Audio and visual deterrent system
 
-### ⚡ [Power Consumption Monitoring](./PowerConsumptionMonitoringWithSMS/)
+### ⚡ [Power Consumption Monitoring](https://github.com/MarLuar/power-consumption-monitor)
 **Smart energy management with automated power control**
 - Real-time current and energy monitoring
 - SMS alerts for threshold violations
 - Automated power cutoff via servo control
 - Blynk app integration for remote monitoring
 
-### 🐔 [Automated Chicken Feeder](./AutomatedChickenFeederWithMouseTrapAndInterface/)
+### 🐔 [Automated Chicken Feeder](https://github.com/MarLuar/automated-chicken-feeder)
 **Smart poultry feeding system with mouse protection**
 - Automated feeding schedules
 - Integrated mouse trap protection
 - User interface for manual control
 - Feed level monitoring
 
-### 📊 [Asset Monitoring System](./AssetMonitoring/)
+### 📊 [Asset Monitoring System](https://github.com/MarLuar/asset-monitoring-system)
 **IoT-based asset tracking and management**
 - Real-time asset location tracking
 - Status monitoring and alerts
